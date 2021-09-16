@@ -220,7 +220,7 @@ function load() {
 
     // Welcome card is toggled based on user's position
     draggableMap.addEventListener('scroll', function() {
-        if (draggableMap.scrollTop > 50 || draggableMap.scrollLeft > 50) {
+        if (draggableMap.scrollTop > 20 || draggableMap.scrollLeft > 20) {
             x('#presentation').classList.add('hidden')
         } else {
             x('#presentation').classList.remove('hidden')
