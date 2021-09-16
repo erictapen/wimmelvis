@@ -1,34 +1,22 @@
 {
-	"circle": {
-		"name": "✘ Circle",
-		"info": "a round plane figure whose boundary (the circumference) consists of points equidistant from a fixed point (the center)"
+	"cube1": {
+		"name": "✘ Ein erster Würfel",
+		"info": "Hier könnte Ihre Werbung stehen."
 	},
-	"triangle": {
-		"name": "✘ Triangle",
-		"info": "a plane figure with three straight sides and three angles"
+	"cube2": {
+		"name": "✘ Ein zweiter Würfel",
+		"info": "Hier könnte Ihre Werbung stehen."
 	},
-	"rectangle": {
-		"name": "✘ Square",
-		"info": "a plane figure with four equal straight sides and four right angles"
+	"cube3": {
+		"name": "✘ Ein dritter Würfel",
+		"info": "Hier könnte Ihre Werbung stehen."
 	},
-	"decagon": {
-		"name": "✘ Decagon",
-		"info": "a plane figure with four equal straight sides and four right angles"
+	"cube4": {
+		"name": "✘ Ein vierter Würfel",
+		"info": "Hier könnte Ihre Werbung stehen."
 	},
-	"four-points-star": {
-		"name": "✘ Four Points Star",
-		"info": "a plane figure with four equal straight sides and four right angles"
-	},
-	"octagon": {
-		"name": "✘ Octagon",
-		"info": "a plane figure with four equal straight sides and four right angles"
-	},
-	"eight-point-star": {
-		"name": "✘ Eight Point Star",
-		"info": "a plane figure with four equal straight sides and four right angles"
-	},
-	"eight-point-red-star": {
-		"name": "✘ Eight Point Red Star",
-		"info": "a plane figure with four equal straight sides and four right angles"
+	"cube_occluded": {
+		"name": "✘ Ein halb verdeckter Würfel",
+		"info": "Hier könnte Ihre Werbung stehen."
 	}
 }
